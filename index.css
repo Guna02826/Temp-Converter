@@ -45,6 +45,10 @@ button:hover {
   font-weight: bold;
 }
 
+button:active{
+  background-color: hsl(0, 100%, 40%);
+}
+
 #result {
   font-size: 1.75em;
   font-weight: bold;
